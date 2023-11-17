@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:public_toilets/models/toilet.dart';
 import 'package:public_toilets/repositories/toilet_repository.dart';
 import 'package:public_toilets/screens/home/add.dart';
-import 'package:public_toilets/screens/home/add_review.dart';
-import 'package:public_toilets/screens/home/add_toilet.dart';
 import 'package:public_toilets/screens/home/toilet_list_item.dart';
 
 class HomePage extends StatefulWidget {
